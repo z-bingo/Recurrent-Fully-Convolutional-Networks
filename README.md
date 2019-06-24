@@ -1,6 +1,6 @@
 # Burst image denoising using a RNN based CNN architechture.
 
-This is the re-implement of the paper at https://arxiv.org/abs/1904.07483.
+This is the re-implement of the paper `End-to-End Denoising of Dark Burst Images Using Recurrent Fully Convolutional Networks` accessing at https://arxiv.org/abs/1904.07483.
 
 All codes are implemented by PyTorch 1.0.0 and Numpy.
 
